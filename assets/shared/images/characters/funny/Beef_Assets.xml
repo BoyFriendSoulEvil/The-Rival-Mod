@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Beef Assests.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Beef Dies First0000" x="0" y="0" width="371" height="425" frameX="-55" frameY="-547" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0001" x="0" y="0" width="371" height="425" frameX="-55" frameY="-547" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0002" x="371" y="0" width="375" height="423" frameX="-53" frameY="-549" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0003" x="371" y="0" width="375" height="423" frameX="-53" frameY="-549" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0004" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0005" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0006" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0007" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0008" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0009" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0010" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0011" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0012" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0013" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0014" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0015" x="1127" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0016" x="1127" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0017" x="1127" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0018" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0019" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0020" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0021" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0022" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0023" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0024" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0025" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0026" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0027" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0028" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0029" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0030" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0031" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0032" x="746" y="0" width="381" height="418" frameX="-50" frameY="-554" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0033" x="1508" y="0" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0034" x="2006" y="0" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0035" x="2504" y="0" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0036" x="3002" y="0" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0037" x="3500" y="0" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0038" x="0" y="498" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0039" x="498" y="498" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0040" x="996" y="498" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0041" x="1494" y="498" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0042" x="1992" y="498" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0043" x="2490" y="498" width="498" height="498" frameX="0" frameY="-473" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0044" x="2988" y="498" width="0" height="0" frameX="-47" frameY="-552" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0045" x="2988" y="498" width="0" height="0" frameX="-47" frameY="-552" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0046" x="2988" y="498" width="0" height="0" frameX="-47" frameY="-552" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0047" x="2988" y="498" width="0" height="0" frameX="-47" frameY="-552" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0048" x="2988" y="498" width="0" height="0" frameX="-47" frameY="-552" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0049" x="2988" y="498" width="293" height="326" frameX="-82" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0050" x="2988" y="498" width="293" height="326" frameX="-82" frameY="-197" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0051" x="2988" y="498" width="293" height="326" frameX="-82" frameY="-398" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0052" x="3281" y="498" width="320" height="309" frameX="-69" frameY="-610" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0053" x="3281" y="498" width="320" height="309" frameX="-69" frameY="-610" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0054" x="3601" y="498" width="309" height="315" frameX="-74" frameY="-604" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0055" x="3601" y="498" width="309" height="315" frameX="-74" frameY="-604" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0056" x="2988" y="498" width="293" height="326" frameX="-82" frameY="-592" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies First0057" x="2988" y="498" width="293" height="326" frameX="-82" frameY="-592" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Confirm0000" x="2988" y="498" width="293" height="326" frameX="-79" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Confirm0001" x="0" y="996" width="292" height="355" frameX="-79" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0002" x="0" y="996" width="292" height="355" frameX="-79" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0003" x="292" y="996" width="313" height="349" frameX="-58" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0004" x="292" y="996" width="313" height="349" frameX="-58" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0005" x="605" y="996" width="364" height="346" frameX="-7" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0006" x="605" y="996" width="364" height="346" frameX="-7" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0007" x="969" y="996" width="371" height="346" frameX="-3" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0008" x="969" y="996" width="371" height="346" frameX="-3" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0009" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0010" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0011" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0012" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0013" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0014" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0015" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0016" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0017" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0018" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0019" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0020" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0021" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0022" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0023" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0024" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0025" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0026" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0027" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0028" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0029" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0030" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0031" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0032" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Confirm0033" x="1340" y="996" width="381" height="346" frameX="0" frameY="0" frameWidth="381" frameHeight="355"/>
+	<SubTexture name="Beef Dies Loop0000" x="1721" y="996" width="315" height="314" frameX="0" frameY="-12" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0001" x="1721" y="996" width="315" height="314" frameX="0" frameY="-12" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0002" x="2036" y="996" width="305" height="318" frameX="-5" frameY="-8" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0003" x="2036" y="996" width="305" height="318" frameX="-5" frameY="-8" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0004" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0005" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0006" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0007" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0008" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0009" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0010" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0011" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0012" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0013" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0014" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0015" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0016" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0017" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0018" x="1721" y="996" width="315" height="314" frameX="0" frameY="-12" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0019" x="1721" y="996" width="315" height="314" frameX="0" frameY="-12" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0020" x="2036" y="996" width="305" height="318" frameX="-5" frameY="-8" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0021" x="2036" y="996" width="305" height="318" frameX="-5" frameY="-8" frameWidth="315" frameHeight="326"/>
+	<SubTexture name="Beef Dies Loop0022" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0023" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0024" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0025" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0026" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0027" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0028" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0029" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0030" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0031" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0032" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Dies Loop0033" x="2988" y="498" width="293" height="326" frameX="-11" frameY="0" frameWidth="498" frameHeight="972"/>
+	<SubTexture name="Beef Down0000" x="2341" y="996" width="418" height="399" frameX="0" frameY="-9" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0001" x="2341" y="996" width="418" height="399" frameX="0" frameY="-9" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0002" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0003" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0004" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0005" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0006" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0007" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0008" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0009" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0010" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0011" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0012" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Down0013" x="2759" y="996" width="409" height="410" frameX="-9" frameY="0" frameWidth="418" frameHeight="410"/>
+	<SubTexture name="Beef Idle0000" x="3168" y="996" width="395" height="410" frameX="0" frameY="-10" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0001" x="3168" y="996" width="395" height="410" frameX="0" frameY="-10" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0002" x="3563" y="996" width="387" height="414" frameX="-4" frameY="-6" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0003" x="3563" y="996" width="387" height="414" frameX="-4" frameY="-6" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0004" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0005" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0006" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0007" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0008" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0009" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0010" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0011" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0012" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Idle0013" x="0" y="1410" width="380" height="420" frameX="-7" frameY="0" frameWidth="395" frameHeight="420"/>
+	<SubTexture name="Beef Left0000" x="380" y="1410" width="405" height="405" frameX="0" frameY="-4" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0001" x="380" y="1410" width="405" height="405" frameX="0" frameY="-4" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0002" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0003" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0004" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0005" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0006" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0007" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0008" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0009" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0010" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0011" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0012" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Left0013" x="785" y="1410" width="396" height="409" frameX="-14" frameY="0" frameWidth="410" frameHeight="409"/>
+	<SubTexture name="Beef Right0000" x="1181" y="1410" width="410" height="416" frameX="-4" frameY="0" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0001" x="1181" y="1410" width="410" height="416" frameX="-4" frameY="0" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0002" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0003" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0004" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0005" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0006" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0007" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0008" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0009" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0010" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0011" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0012" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Right0013" x="1591" y="1410" width="425" height="413" frameX="0" frameY="-2" frameWidth="425" frameHeight="416"/>
+	<SubTexture name="Beef Up0000" x="2016" y="1410" width="485" height="486" frameX="-6" frameY="0" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0001" x="2016" y="1410" width="485" height="486" frameX="-6" frameY="0" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0002" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0003" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0004" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0005" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0006" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0007" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0008" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0009" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0010" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0011" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0012" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+	<SubTexture name="Beef Up0013" x="2501" y="1410" width="495" height="480" frameX="0" frameY="-9" frameWidth="495" frameHeight="489"/>
+</TextureAtlas>

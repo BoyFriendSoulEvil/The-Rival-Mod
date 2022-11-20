@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rival_Assets Recolor.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rival Down Miss instance 10000" x="0" y="0" width="588" height="707" frameX="-10" frameY="-52" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10001" x="588" y="0" width="609" height="737" frameX="0" frameY="-22" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10002" x="588" y="0" width="609" height="737" frameX="0" frameY="-22" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10003" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10004" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10005" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10006" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10007" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10008" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10009" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10010" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10011" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10012" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down Miss instance 10013" x="1197" y="0" width="589" height="759" frameX="-10" frameY="0" frameWidth="609" frameHeight="759"/>
+	<SubTexture name="Rival Down instance 10000" x="1786" y="0" width="588" height="707" frameX="0" frameY="-9" frameWidth="590" frameHeight="717"/>
+	<SubTexture name="Rival Down instance 10001" x="1786" y="0" width="588" height="707" frameX="0" frameY="-9" frameWidth="590" frameHeight="717"/>
+	<SubTexture name="Rival Down instance 10002" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10003" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10004" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10005" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10006" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10007" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10008" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10009" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10010" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10011" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10012" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Down instance 10013" x="2374" y="0" width="590" height="717"/>
+	<SubTexture name="Rival Idle instance 10000" x="2964" y="0" width="555" height="747" frameX="0" frameY="-30" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10001" x="2964" y="0" width="555" height="747" frameX="0" frameY="-30" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10002" x="3519" y="0" width="545" height="756" frameX="-3" frameY="-21" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10003" x="3519" y="0" width="545" height="756" frameX="-3" frameY="-21" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10004" x="4064" y="0" width="534" height="764" frameX="-6" frameY="-13" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10005" x="4064" y="0" width="534" height="764" frameX="-6" frameY="-13" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10006" x="4598" y="0" width="527" height="772" frameX="-6" frameY="-5" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10007" x="4598" y="0" width="527" height="772" frameX="-6" frameY="-5" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10008" x="5125" y="0" width="520" height="777" frameX="-6" frameY="0" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10009" x="5125" y="0" width="520" height="777" frameX="-6" frameY="0" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10010" x="5125" y="0" width="520" height="777" frameX="-6" frameY="0" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10011" x="5125" y="0" width="520" height="777" frameX="-6" frameY="0" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10012" x="5125" y="0" width="520" height="777" frameX="-6" frameY="0" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Idle instance 10013" x="5125" y="0" width="520" height="777" frameX="-6" frameY="0" frameWidth="555" frameHeight="777"/>
+	<SubTexture name="Rival Left Miss instance 10000" x="5645" y="0" width="513" height="770" frameX="0" frameY="-19" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10001" x="6158" y="0" width="517" height="789" frameX="-3" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10002" x="6158" y="0" width="517" height="789" frameX="-3" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10003" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10004" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10005" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10006" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10007" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10008" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10009" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10010" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10011" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10012" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10013" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10014" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10015" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10016" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10017" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10018" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10019" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10020" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10021" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10022" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left Miss instance 10023" x="6675" y="0" width="512" height="789" frameX="-1" frameY="0" frameWidth="520" frameHeight="789"/>
+	<SubTexture name="Rival Left instance 10000" x="7187" y="0" width="514" height="769" frameX="0" frameY="0" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10001" x="7187" y="0" width="514" height="769" frameX="0" frameY="0" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10002" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10003" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10004" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10005" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10006" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10007" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10008" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10009" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10010" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10011" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10012" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Left instance 10013" x="0" y="789" width="522" height="767" frameX="-1" frameY="-2" frameWidth="523" frameHeight="769"/>
+	<SubTexture name="Rival Miss Right instance 10000" x="522" y="789" width="677" height="759" frameX="0" frameY="-23" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10001" x="1199" y="789" width="666" height="781" frameX="0" frameY="-1" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10002" x="1199" y="789" width="666" height="781" frameX="0" frameY="-1" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10003" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10004" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10005" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10006" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10007" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10008" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10009" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10010" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10011" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10012" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Right instance 10013" x="1865" y="789" width="674" height="782" frameX="-1" frameY="0" frameWidth="677" frameHeight="782"/>
+	<SubTexture name="Rival Miss Up instance 10000" x="2539" y="789" width="512" height="819" frameX="-5" frameY="-34" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10001" x="3051" y="789" width="519" height="842" frameX="0" frameY="-11" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10002" x="3051" y="789" width="519" height="842" frameX="0" frameY="-11" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10003" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10004" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10005" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10006" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10007" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10008" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10009" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10010" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10011" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10012" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10013" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10014" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10015" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10016" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10017" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10018" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10019" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10020" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10021" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10022" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Miss Up instance 10023" x="3570" y="789" width="508" height="853" frameX="-5" frameY="0" frameWidth="519" frameHeight="853"/>
+	<SubTexture name="Rival Right instance 10000" x="4078" y="789" width="678" height="759" frameX="-2" frameY="-7" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10001" x="4078" y="789" width="678" height="759" frameX="-2" frameY="-7" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10002" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10003" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10004" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10005" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10006" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10007" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10008" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10009" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10010" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10011" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10012" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Right instance 10013" x="4756" y="789" width="645" height="766" frameX="0" frameY="0" frameWidth="680" frameHeight="766"/>
+	<SubTexture name="Rival Teleport 1 instance 10000" x="1601" y="1905" width="632" height="778" frameX="-480" frameY="-339" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Rival Teleport 1 instance 10001" x="5401" y="789" width="1600" height="1116" frameX="0" frameY="0" frameWidth="1600" frameHeight="1117"/>
+	<SubTexture name="Rival Teleport 1 instance 10002" x="7001" y="789" width="614" height="429" frameX="-480" frameY="-688" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Rival Teleport 2 instance 10000" x="7001" y="789" width="614" height="429" frameX="-481" frameY="-688" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Rival Teleport 2 instance 10001" x="0" y="1905" width="1601" height="1116" frameX="0" frameY="0" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Rival Teleport 2 instance 10002" x="1601" y="1905" width="632" height="778" frameX="-481" frameY="-339" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Rival The Bird instance 10000" x="2233" y="1905" width="621" height="773" frameX="0" frameY="-5" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10001" x="2233" y="1905" width="621" height="773" frameX="0" frameY="-5" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10002" x="2854" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10003" x="2854" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10004" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10005" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10006" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10007" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10008" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10009" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10010" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10011" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10012" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival The Bird instance 10013" x="3452" y="1905" width="598" height="778" frameX="-4" frameY="0" frameWidth="621" frameHeight="778"/>
+	<SubTexture name="Rival Up instance 10000" x="4050" y="1905" width="512" height="819" frameX="0" frameY="0" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10001" x="4050" y="1905" width="512" height="819" frameX="0" frameY="0" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10002" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10003" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10004" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10005" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10006" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10007" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10008" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10009" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10010" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10011" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10012" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+	<SubTexture name="Rival Up instance 10013" x="4562" y="1905" width="503" height="807" frameX="0" frameY="-13" frameWidth="512" frameHeight="820"/>
+</TextureAtlas>

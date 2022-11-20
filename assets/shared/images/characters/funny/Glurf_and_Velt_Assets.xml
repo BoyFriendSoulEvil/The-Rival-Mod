@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Glurf and Velt Assets.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf and Velt Dancing0000" x="0" y="0" width="1175" height="941"/>
+	<SubTexture name="Gf and Velt Dancing0001" x="0" y="0" width="1175" height="941"/>
+	<SubTexture name="Gf and Velt Dancing0002" x="1175" y="0" width="1175" height="937" frameX="0" frameY="-4" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0003" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0004" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0005" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0006" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0007" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0008" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0009" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0010" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0011" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0012" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0013" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0014" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0015" x="2350" y="0" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0016" x="0" y="941" width="1175" height="941"/>
+	<SubTexture name="Gf and Velt Dancing0017" x="0" y="941" width="1175" height="941"/>
+	<SubTexture name="Gf and Velt Dancing0018" x="1175" y="941" width="1175" height="937" frameX="0" frameY="-4" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0019" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0020" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0021" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0022" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0023" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0024" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0025" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0026" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0027" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0028" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Dancing0029" x="2350" y="941" width="1152" height="904" frameX="-10" frameY="-26" frameWidth="1175" frameHeight="941"/>
+	<SubTexture name="Gf and Velt Idle0000" x="0" y="1882" width="1175" height="908"/>
+	<SubTexture name="Gf and Velt Idle0001" x="0" y="1882" width="1175" height="908"/>
+	<SubTexture name="Gf and Velt Idle0002" x="1175" y="1882" width="1175" height="896" frameX="0" frameY="-12" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0003" x="2350" y="1882" width="1152" height="885" frameX="-10" frameY="-12" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0004" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0005" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0006" x="1152" y="2790" width="1152" height="833" frameX="-10" frameY="-64" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0007" x="1152" y="2790" width="1152" height="833" frameX="-10" frameY="-64" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0008" x="2304" y="2790" width="1152" height="844" frameX="-10" frameY="-53" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0009" x="2304" y="2790" width="1152" height="844" frameX="-10" frameY="-53" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0010" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0011" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0012" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0013" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0014" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0015" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0016" x="0" y="1882" width="1175" height="908"/>
+	<SubTexture name="Gf and Velt Idle0017" x="0" y="1882" width="1175" height="908"/>
+	<SubTexture name="Gf and Velt Idle0018" x="1175" y="1882" width="1175" height="896" frameX="0" frameY="-12" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0019" x="2350" y="1882" width="1152" height="885" frameX="-10" frameY="-12" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0020" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0021" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0022" x="1152" y="2790" width="1152" height="833" frameX="-10" frameY="-64" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0023" x="1152" y="2790" width="1152" height="833" frameX="-10" frameY="-64" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0024" x="2304" y="2790" width="1152" height="844" frameX="-10" frameY="-53" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0025" x="2304" y="2790" width="1152" height="844" frameX="-10" frameY="-53" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0026" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0027" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0028" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+	<SubTexture name="Gf and Velt Idle0029" x="0" y="2790" width="1152" height="854" frameX="-10" frameY="-43" frameWidth="1175" frameHeight="908"/>
+</TextureAtlas>

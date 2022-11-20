@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Liver Assets.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Liver Down0000" x="0" y="0" width="464" height="459" frameX="0" frameY="-13" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0001" x="0" y="0" width="464" height="459" frameX="0" frameY="-13" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0002" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0003" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0004" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0005" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0006" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0007" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0008" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0009" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0010" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0011" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0012" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Down0013" x="464" y="0" width="451" height="474" frameX="-7" frameY="0" frameWidth="464" frameHeight="474"/>
+	<SubTexture name="Liver Idle0000" x="915" y="0" width="433" height="481" frameX="0" frameY="-8" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0001" x="915" y="0" width="433" height="481" frameX="0" frameY="-8" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0002" x="1348" y="0" width="427" height="484" frameX="-3" frameY="-5" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0003" x="1348" y="0" width="427" height="484" frameX="-3" frameY="-5" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0004" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0005" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0006" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0007" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0008" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0009" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0010" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0011" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0012" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Idle0013" x="1775" y="0" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Liver Left0000" x="2194" y="0" width="447" height="482" frameX="0" frameY="0" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0001" x="2194" y="0" width="447" height="482" frameX="0" frameY="0" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0002" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0003" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0004" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0005" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0006" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0007" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0008" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0009" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0010" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0011" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0012" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Left0013" x="2641" y="0" width="443" height="479" frameX="-9" frameY="-4" frameWidth="452" frameHeight="483"/>
+	<SubTexture name="Liver Right0000" x="3084" y="0" width="384" height="490" frameX="-8" frameY="0" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0001" x="3084" y="0" width="384" height="490" frameX="-8" frameY="0" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0002" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0003" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0004" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0005" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0006" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0007" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0008" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0009" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0010" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0011" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0012" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Right0013" x="3468" y="0" width="391" height="488" frameX="0" frameY="-5" frameWidth="392" frameHeight="493"/>
+	<SubTexture name="Liver Up0000" x="0" y="490" width="453" height="534" frameX="-4" frameY="0" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0001" x="0" y="490" width="453" height="534" frameX="-4" frameY="0" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0002" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0003" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0004" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0005" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0006" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0007" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0008" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0009" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0010" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0011" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0012" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Up0013" x="453" y="490" width="466" height="521" frameX="0" frameY="-16" frameWidth="466" frameHeight="537"/>
+	<SubTexture name="Liver Watch0000" x="919" y="490" width="456" height="473" frameX="0" frameY="-10" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0001" x="919" y="490" width="456" height="473" frameX="0" frameY="-10" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0002" x="1375" y="490" width="450" height="480" frameX="-3" frameY="-4" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0003" x="1375" y="490" width="450" height="480" frameX="-3" frameY="-4" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0004" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0005" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0006" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0007" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0008" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0009" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0010" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0011" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0012" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Liver Watch0013" x="1825" y="490" width="447" height="484" frameX="-4" frameY="0" frameWidth="456" frameHeight="484"/>
+	<SubTexture name="Mad Liver Idle0000" x="2272" y="490" width="433" height="482" frameX="0" frameY="-7" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0001" x="2272" y="490" width="433" height="482" frameX="0" frameY="-7" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0002" x="2705" y="490" width="427" height="483" frameX="-3" frameY="-6" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0003" x="2705" y="490" width="427" height="483" frameX="-3" frameY="-6" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0004" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0005" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0006" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0007" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0008" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0009" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0010" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0011" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0012" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+	<SubTexture name="Mad Liver Idle0013" x="3132" y="490" width="419" height="489" frameX="-7" frameY="0" frameWidth="433" frameHeight="489"/>
+</TextureAtlas>
