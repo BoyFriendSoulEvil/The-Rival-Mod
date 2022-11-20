@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gf and Violet On Speaker.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf Snap 1 instance 10000" x="0" y="0" width="704" height="644" frameX="0" frameY="-4" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10001" x="704" y="0" width="704" height="646" frameX="0" frameY="-2" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10002" x="1408" y="0" width="704" height="646" frameX="0" frameY="-2" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10003" x="2112" y="0" width="704" height="648"/>
+	<SubTexture name="Gf Snap 1 instance 10004" x="2816" y="0" width="704" height="648"/>
+	<SubTexture name="Gf Snap 1 instance 10005" x="3520" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10006" x="4224" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10007" x="3520" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10008" x="4224" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10009" x="3520" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10010" x="4224" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10011" x="3520" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10012" x="4224" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10013" x="3520" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10014" x="4224" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10015" x="3520" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10016" x="4224" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10017" x="3520" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 1 instance 10018" x="4224" y="0" width="704" height="645" frameX="0" frameY="-3" frameWidth="704" frameHeight="648"/>
+	<SubTexture name="Gf Snap 2 instance 10000" x="4928" y="0" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10001" x="5632" y="0" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10002" x="6336" y="0" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10003" x="7040" y="0" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10004" x="0" y="648" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10005" x="704" y="648" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10006" x="1408" y="648" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10007" x="704" y="648" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10008" x="1408" y="648" width="704" height="645"/>
+	<SubTexture name="Gf Snap 2 instance 10009" x="704" y="648" width="704" height="645"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10000" x="2112" y="648" width="699" height="635" frameX="-2" frameY="-14" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10001" x="2811" y="648" width="704" height="635" frameX="0" frameY="-14" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10002" x="3515" y="648" width="704" height="633" frameX="0" frameY="-16" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10003" x="4219" y="648" width="699" height="633" frameX="-2" frameY="-16" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10004" x="4918" y="648" width="699" height="636" frameX="-2" frameY="-13" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10005" x="5617" y="648" width="699" height="636" frameX="-2" frameY="-13" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10006" x="6316" y="648" width="699" height="637" frameX="-2" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10007" x="7015" y="648" width="699" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10008" x="7015" y="648" width="699" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10009" x="7015" y="648" width="699" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10010" x="0" y="1296" width="699" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10011" x="0" y="1296" width="699" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10012" x="0" y="1296" width="699" height="649" frameX="-2" frameY="0" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10013" x="699" y="1296" width="699" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10014" x="699" y="1296" width="699" height="648" frameX="-2" frameY="-1" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10015" x="1398" y="1296" width="699" height="637" frameX="-2" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10016" x="2097" y="1296" width="704" height="637" frameX="0" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10017" x="2801" y="1296" width="704" height="637" frameX="0" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10018" x="3505" y="1296" width="699" height="637" frameX="-2" frameY="-12" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10019" x="4204" y="1296" width="699" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10020" x="4903" y="1296" width="699" height="638" frameX="-2" frameY="-11" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10021" x="5602" y="1296" width="699" height="639" frameX="-2" frameY="-10" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10022" x="6301" y="1296" width="699" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10023" x="6301" y="1296" width="699" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10024" x="6301" y="1296" width="699" height="644" frameX="-2" frameY="-5" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10025" x="7000" y="1296" width="699" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10026" x="7000" y="1296" width="699" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10027" x="7000" y="1296" width="699" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10028" x="0" y="1945" width="699" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Gf-Violet Dancing Beat instance 10029" x="0" y="1945" width="699" height="643" frameX="-2" frameY="-6" frameWidth="704" frameHeight="649"/>
+	<SubTexture name="Miss Gf instance 10000" x="699" y="1945" width="699" height="646"/>
+	<SubTexture name="Miss Gf instance 10001" x="699" y="1945" width="699" height="646"/>
+	<SubTexture name="Miss Gf instance 10002" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10003" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10004" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10005" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10006" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10007" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10008" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10009" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10010" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10011" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10012" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10013" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10014" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10015" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10016" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10017" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10018" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10019" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10020" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10021" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10022" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10023" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10024" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10025" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10026" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10027" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10028" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10029" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10030" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10031" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10032" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10033" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10034" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10035" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10036" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10037" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10038" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10039" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10040" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10041" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10042" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10043" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10044" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10045" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10046" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10047" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10048" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10049" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10050" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10051" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10052" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10053" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10054" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10055" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10056" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10057" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10058" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10059" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10060" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10061" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10062" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10063" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10064" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10065" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10066" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10067" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10068" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10069" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10070" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10071" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10072" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10073" x="3495" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10074" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10075" x="1398" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10076" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10077" x="2097" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10078" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Gf instance 10079" x="2796" y="1945" width="699" height="645" frameX="0" frameY="-1" frameWidth="699" frameHeight="646"/>
+	<SubTexture name="Miss Violet instance 10000" x="4194" y="1945" width="699" height="656"/>
+	<SubTexture name="Miss Violet instance 10001" x="4194" y="1945" width="699" height="656"/>
+	<SubTexture name="Miss Violet instance 10002" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10003" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10004" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10005" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10006" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10007" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10008" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10009" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10010" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10011" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10012" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10013" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10014" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10015" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10016" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10017" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10018" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10019" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10020" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10021" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10022" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10023" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10024" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10025" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10026" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10027" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10028" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10029" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10030" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10031" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10032" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10033" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10034" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10035" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10036" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10037" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10038" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10039" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10040" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10041" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10042" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10043" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10044" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10045" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10046" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10047" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10048" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10049" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10050" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10051" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10052" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10053" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10054" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10055" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10056" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10057" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10058" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10059" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10060" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10061" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10062" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10063" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10064" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10065" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10066" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10067" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10068" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10069" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10070" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10071" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10072" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10073" x="6990" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10074" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10075" x="4893" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10076" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10077" x="5592" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10078" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Miss Violet instance 10079" x="6291" y="1945" width="699" height="655" frameX="0" frameY="-1" frameWidth="699" frameHeight="656"/>
+	<SubTexture name="Violet Snap 1 instance 10000" x="0" y="2601" width="705" height="642" frameX="0" frameY="-3" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10001" x="705" y="2601" width="705" height="642" frameX="0" frameY="-3" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10002" x="1410" y="2601" width="705" height="642" frameX="0" frameY="-3" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10003" x="2115" y="2601" width="705" height="645"/>
+	<SubTexture name="Violet Snap 1 instance 10004" x="2820" y="2601" width="705" height="645"/>
+	<SubTexture name="Violet Snap 1 instance 10005" x="3525" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10006" x="4230" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10007" x="3525" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10008" x="4230" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10009" x="3525" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10010" x="4230" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10011" x="3525" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10012" x="4230" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10013" x="3525" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10014" x="4230" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10015" x="3525" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10016" x="4230" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10017" x="3525" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 1 instance 10018" x="4230" y="2601" width="705" height="643" frameX="0" frameY="-2" frameWidth="705" frameHeight="645"/>
+	<SubTexture name="Violet Snap 2 instance 10000" x="4935" y="2601" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10001" x="5638" y="2601" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10002" x="6341" y="2601" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10003" x="7044" y="2601" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10004" x="0" y="3246" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10005" x="703" y="3246" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10006" x="1406" y="3246" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10007" x="703" y="3246" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10008" x="1406" y="3246" width="703" height="643"/>
+	<SubTexture name="Violet Snap 2 instance 10009" x="703" y="3246" width="703" height="643"/>
+</TextureAtlas>

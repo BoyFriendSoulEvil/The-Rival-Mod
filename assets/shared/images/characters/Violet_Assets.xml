@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Violet Sprites.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Violet Down instance 10000" x="0" y="0" width="394" height="720" frameX="0" frameY="-10" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10001" x="0" y="0" width="394" height="720" frameX="0" frameY="-10" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10002" x="394" y="0" width="379" height="729" frameX="-9" frameY="-1" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10003" x="394" y="0" width="379" height="729" frameX="-9" frameY="-1" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10004" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10005" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10006" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10007" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10008" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10009" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10010" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10011" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10012" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Down instance 10013" x="773" y="0" width="378" height="730" frameX="-9" frameY="0" frameWidth="394" frameHeight="730"/>
+	<SubTexture name="Violet Idle instance 10000" x="1151" y="0" width="400" height="771" frameX="-4" frameY="-19" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10001" x="1151" y="0" width="400" height="771" frameX="-4" frameY="-19" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10002" x="1551" y="0" width="385" height="777" frameX="-16" frameY="-14" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10003" x="1551" y="0" width="385" height="777" frameX="-16" frameY="-14" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10004" x="1936" y="0" width="392" height="783" frameX="-9" frameY="-8" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10005" x="1936" y="0" width="392" height="783" frameX="-9" frameY="-8" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10006" x="2328" y="0" width="398" height="788" frameX="-2" frameY="-3" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10007" x="2328" y="0" width="398" height="788" frameX="-2" frameY="-3" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10008" x="2726" y="0" width="403" height="791" frameX="0" frameY="0" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10009" x="2726" y="0" width="403" height="791" frameX="0" frameY="0" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10010" x="3129" y="0" width="396" height="789" frameX="-4" frameY="-2" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10011" x="3129" y="0" width="396" height="789" frameX="-4" frameY="-2" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10012" x="3525" y="0" width="392" height="787" frameX="-8" frameY="-4" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Idle instance 10013" x="3525" y="0" width="392" height="787" frameX="-8" frameY="-4" frameWidth="404" frameHeight="791"/>
+	<SubTexture name="Violet Left instance 10000" x="0" y="791" width="408" height="782"/>
+	<SubTexture name="Violet Left instance 10001" x="0" y="791" width="408" height="782"/>
+	<SubTexture name="Violet Left instance 10002" x="408" y="791" width="394" height="780" frameX="-4" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10003" x="408" y="791" width="394" height="780" frameX="-4" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10004" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10005" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10006" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10007" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10008" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10009" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10010" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10011" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10012" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Left instance 10013" x="802" y="791" width="393" height="780" frameX="-5" frameY="-2" frameWidth="408" frameHeight="782"/>
+	<SubTexture name="Violet Right instance 10000" x="1195" y="791" width="393" height="787" frameX="0" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10001" x="1195" y="791" width="393" height="787" frameX="0" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10002" x="1588" y="791" width="387" height="788" frameX="-4" frameY="0" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10003" x="1588" y="791" width="387" height="788" frameX="-4" frameY="0" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10004" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10005" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10006" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10007" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10008" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10009" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10010" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10011" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10012" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Right instance 10013" x="1975" y="791" width="389" height="787" frameX="-2" frameY="-1" frameWidth="393" frameHeight="788"/>
+	<SubTexture name="Violet Up instance 10000" x="2364" y="791" width="439" height="816" frameX="0" frameY="0" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10001" x="2364" y="791" width="439" height="816" frameX="0" frameY="0" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10002" x="2803" y="791" width="440" height="810" frameX="-6" frameY="-6" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10003" x="2803" y="791" width="440" height="810" frameX="-6" frameY="-6" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10004" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10005" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10006" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10007" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10008" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10009" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10010" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10011" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10012" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+	<SubTexture name="Violet Up instance 10013" x="3243" y="791" width="438" height="809" frameX="-8" frameY="-7" frameWidth="446" frameHeight="816"/>
+</TextureAtlas>
