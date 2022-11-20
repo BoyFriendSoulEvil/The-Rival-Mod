@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Teleport_Effect.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Teleport Effect 1 instance 10000" x="1600" y="0" width="614" height="429" frameX="-480" frameY="-688" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Teleport Effect 1 instance 10001" x="0" y="0" width="1600" height="1116" frameX="0" frameY="0" frameWidth="1600" frameHeight="1117"/>
+	<SubTexture name="Teleport Effect 1 instance 10002" x="1600" y="0" width="614" height="429" frameX="-480" frameY="-688" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Teleport Effect 2 instance 10000" x="1600" y="0" width="614" height="429" frameX="-481" frameY="-688" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Teleport Effect 2 instance 10001" x="2214" y="0" width="1601" height="1116" frameX="0" frameY="0" frameWidth="1601" frameHeight="1117"/>
+	<SubTexture name="Teleport Effect 2 instance 10002" x="1600" y="0" width="614" height="429" frameX="-481" frameY="-688" frameWidth="1601" frameHeight="1117"/>
+</TextureAtlas>
